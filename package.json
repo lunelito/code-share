@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "code_share",
-=======
-  "name": "code_share2",
->>>>>>> 162940b0246bccae11c0d82531d8ea0f895942e9
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,16 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@monaco-editor/react": "^4.7.0",
     "@prisma/client": "^6.16.2",
     "next": "15.5.3",
     "prisma": "^6.16.2",
-=======
-    "@prisma/client": "^6.16.1",
-    "next": "15.5.3",
-    "prisma": "^6.16.1",
->>>>>>> 162940b0246bccae11c0d82531d8ea0f895942e9
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
